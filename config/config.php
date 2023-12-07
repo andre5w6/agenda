@@ -1,10 +1,7 @@
-<?php 
-// Configurações de conexão ao banco de dados
-// Msql
-
-define('DB_HOST', 'localhost');
-define('DB_USER', 'nome_usuario');
-define('DB_PASS', 'senha_mysql');
-define('DB_NAME', 'nome_do_bd');
-
+<?php
+    // Configurações de conexão ao banco de dados MySQL
+    define('DB_HOST', 'localhost');
+    define('DB_USER', 'aluno');
+    define('DB_PASSWORD', 'aluno');
+    define('DB_NAME', 'agenda');
 ?>
